@@ -1,8 +1,8 @@
 ## Hi! It's me Davi Machado Gomes!
 
 - Information Systems student.
-- Interest in Cybersecurity
-- Currently studying Cybersecurity principles
+- Interest in Game dev.
+- Currently studying C++ and game engines.
 
 ## I know the basics of
 <div>
