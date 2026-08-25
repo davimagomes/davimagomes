@@ -1,21 +1,14 @@
-## Hi! It's me Davi Machado Gomes!
+## Hi! It's me Davi!
 
 - Information Systems student.
-- Interest in Game dev.
+- Interest in Game dev and low level programming.
 - Currently studying C++ and game engines.
 
-## I know the basics of
+## Languages I know
 <div>
-  <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-</div>
-
-## Trying to learn
-<div>
-    <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-    <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </div>
 
 ## Plataforms
